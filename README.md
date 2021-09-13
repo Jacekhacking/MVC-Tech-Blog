@@ -1,9 +1,31 @@
 # Tech-Blog
 
+live link: https://desolate-shore-13134.herokuapp.com/
 
+
+github repo: https://github.com/Jacekhacking/MVC-Tech-Blog
 ## Description
 
 Blog site that allows publishing of articles, blog posts, and general thoughts and opinions. 
+
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Criteria](#criteria)
+* [Demo](#demo)
+
+
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi?v=O15B9Es2mc0)(https://www.youtube.com/watch?v=O15B9Es2mc0)]
+)
+
+
+
 
 ## User Story
 
@@ -14,13 +36,6 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
 
 
-## Table of Contents
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Criteria](#criteria)
 
 
 ## Installation
